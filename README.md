@@ -15,7 +15,7 @@ ___
 
 ### Links 📎
 
-[LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), [Cargo Collective](https://cargocollective.com/vandersonluis/), [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts)
+[LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), [Portólio](https://cargocollective.com/vandersonluis/), [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts), [Progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb0)
 
 ___
 
