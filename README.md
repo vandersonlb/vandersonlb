@@ -13,9 +13,12 @@
 **O que eu pretendo estudar**: pra ontem Vue.js, depois desse a lista é gigante... 🌱
 ___
 
-### Links 🚀
+### Links importantes 🚀
 
-[LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), [Portólio](https://cargocollective.com/vandersonluis/), [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts), [Progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb0)
+Me segue lá no [LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), e aproveita pra ver meu [portólio](https://cargocollective.com/vandersonluis/index) com os jobs de design e criação.
+
+Aqui estão minhas contribuições no [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts), 
+e o meu [progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb0) no site da Alura.
 
 ___
 
@@ -30,7 +33,7 @@ ___
 
 ### Stack atual: 🎯
 
-<a><img height="40" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/html5.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/css3.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/javascript.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/sass.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/html5.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/css3.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/javascript.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/sass.png"></a>
