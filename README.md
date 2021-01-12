@@ -4,7 +4,7 @@
 
 **O que eu já fiz da vida, em ordem de duração**: arte-finalização e produção gráfica, pré-impressão, premedia (antigo OPI para os íntimos), criação, design gráfico, marketing digital, e uns estágios <s>aleatórios</s> por aí.
 
-**O que eu faço agora**: sou Web Designer na Vati. 🖥          
+**O que eu faço agora**: sou Web Designer na Vati. ✍         
 
 **O que eu quero ser <s>quando crescer</s>**: Desenvolvedor Front-End. 🙏 🏁
 
@@ -13,7 +13,7 @@
 **O que eu pretendo estudar**: pra ontem Vue.js, depois desse a lista é gigante... 🌱
 ___
 
-### Links 📎
+### Links 🚀
 
 [LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), [Portólio](https://cargocollective.com/vandersonluis/), [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts), [Progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb0)
 
