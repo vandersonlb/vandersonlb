@@ -10,7 +10,7 @@
 
 **O que eu já estudei para chegar lá**: Metodologia da Programação, Programação de Software Iniciante, HTML, CSS, Javascript, Acessibilidade Web, Git e Sass.
 
-**O que eu pretendo estudar**: pra ontem Vue.js, depois desse a lista é gigante... 🌱
+**O que estou estudando agora**: Vue.js 🌱
 ___
 
 ### Links importantes 🚀
