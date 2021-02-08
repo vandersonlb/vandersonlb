@@ -8,7 +8,7 @@
 
 **O que eu quero ser <s>quando crescer</s>**: Desenvolvedor Front-End. 🙏
 
-**O que eu já estudei para chegar lá**: Metodologia da Programação, Programação de Software Iniciante, HTML, CSS, Javascript, Acessibilidade Web, Git e Sass.
+**O que eu já estudei para chegar lá**: Metodologia da Programação, Programação de Software Iniciante, HTML, CSS, Javascript, ES6, Acessibilidade Web, Git, Sass e SEO.
 
 **O que estou estudando agora**: Vue.js 🌱
 ___
