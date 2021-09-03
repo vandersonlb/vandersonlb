@@ -18,7 +18,7 @@ ___
 Me segue lá no [LinkedIn](https://www.linkedin.com/in/vandersonbonacuore/), e aproveita pra ver meu [portólio](https://cargocollective.com/vandersonluis/index) com os jobs de design e criação.
 
 Aqui estão minhas contribuições no [Stack Exchange](https://stackexchange.com/users/14433563/vanderson-luis-bonacuore?tab=accounts), 
-e o meu [progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb0) no site da Alura.
+e o meu [progresso nos estudos](https://cursos.alura.com.br/user/vandersonlb) no site da Alura.
 
 ___
 
