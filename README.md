@@ -8,9 +8,10 @@
 
 **O que eu quero ser <s>quando crescer</s>**: Desenvolvedor Front-End. 🙏
 
-**O que eu já estudei para chegar lá**: Metodologia da Programação, Programação de Software Iniciante, HTML, CSS, Javascript, ES6, Acessibilidade Web, Git, Sass e SEO.
+**O que eu já estudei para chegar lá**: Metodologia da Programação, Programação de Software Iniciante, HTML, CSS, Javascript, ES6, Vue.js, Acessibilidade Web, Git, Sass e SEO.
 
-**O que estou estudando agora**: Vue.js 🌱
+[//]: <> (**O que estou estudando agora**: Vue.js 🌱)
+
 ___
 
 ### Links importantes 🚀
@@ -24,7 +25,7 @@ ___
 
 ### Aleatoriedades ⚡
 
-- Sou formado em Design Gráfico e Criação Publicitária.
+- Sou formado em Design Gráfico e em Criação Publicitária.
 - Manjo de silk-screen.
 - 3 cursos de datilografia.
 - Faço logotipos (orçamentos inbox).
@@ -33,7 +34,8 @@ ___
 
 ### Stack atual: 🎯
 
-<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/html5.png"></a>
-<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/css3.png"></a>
-<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/javascript.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/html5.png"></a> &nbsp;
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/css3.png"></a> &nbsp;
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/javascript.png"></a> &nbsp;
 <a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/sass.png"></a>
+<a><img height="45" src="https://raw.githubusercontent.com/vandersonlb/vandersonlb/main/assets/vue_js.png"></a> &nbsp;
